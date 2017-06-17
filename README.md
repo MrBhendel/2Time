@@ -72,4 +72,4 @@ Comparing the real text to the output of 2Time, we can see some striking similar
 
 ![text similarities](https://github.com/bthendel/2Time/blob/master/resources/text.jpg)
 
-The original paper claims that the algorithm outputs near 100% accurate results for emails and HTMl documents given a corpus of 300k files.
+The original paper claims that the algorithm outputs near 100% accurate results for emails and HTML documents given a corpus of 300k files.
