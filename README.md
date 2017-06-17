@@ -21,7 +21,7 @@ drwxr-xr-x 43 bhendel bhendel   4096 Jun 17 07:59 ..
 -rw-r--r--  1 bhendel bhendel 621865 Jun 14 14:36 Twenty Thousand Leagues under the Sea.txt
 ```
 
-Now we generate our corpus. All files in the target folder as well as its subdirectories will be added to the corpus.
+Now we generate our corpus. All files in the target folder as well as in its subdirectories will be added to the corpus.
 
 ```
 bhendel@workstation:~$ java -jar 2Time.jar --inputDir corpusData --outputCorpus verne.corpus
