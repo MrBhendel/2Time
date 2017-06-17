@@ -7,7 +7,7 @@ of Two-time Pads](https://www.cs.jhu.edu/~jason/papers/mason+al.ccs06.pdf) by Ma
 
 ## Usage Example
 
-Here we present a toy example of 2Time in action. The corpus generated in this example is unusually small. Additionally, the individual files that make up the corpus lack the sort of underlying structure that 2Time's algorithm is designed to exploit. All of the files used in this example can be found in the demo materials folder.
+Here we present a toy example of 2Time in action. The corpus generated in this example is unusually small. Additionally, the individual files that make up the corpus lack the sort of underlying structure that 2Time's algorithm is designed to exploit. All of the files used in this example can be found in the [demo materials](https://github.com/bthendel/2Time/tree/master/demo%20materials) folder.
 
 We start by placing three novels by Jules Verne in a folder called corpusData.
 
