@@ -49,7 +49,7 @@ bhendel@workstation:~$ python XORUtil.py "terminating in a white tuft, had betra
 Now we attempt to peel apart the messages. 
 
 ```
-bhendel@urysohn:~$ java -jar 2Time.jar --inputCorpus verne.corpus --inputData message --outputData out
+bhendel@workstation:~$ java -jar 2Time.jar --inputCorpus verne.corpus --inputData message --outputData out
 [+] Processing byte 1...
 [+] Processing byte 2...
 
